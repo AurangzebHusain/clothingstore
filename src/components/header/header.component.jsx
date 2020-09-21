@@ -9,7 +9,7 @@ export default function Header() {
             <div className="options">
                     <Link className="option" to="/shop">SHOP</Link>
                     <Link className="option" to="/contact">CONTACT</Link>
-                    <Link className="option" to="/Signin">SIGNIN</Link>
+                    <Link className="option" to="/signin">SIGNIN</Link>
                 
             </div>
             

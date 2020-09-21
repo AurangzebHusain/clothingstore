@@ -4,8 +4,11 @@
     flex-direction: column;
     height: 350px;
     align-items: center;
+    opacity: 0.9;
     &:hover{
+        transition: all 0.3s;
         transform: scale(1.1);
+        opacity: 1;
       }
   
     .image {
